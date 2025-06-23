@@ -1,5 +1,9 @@
 # 👋 Olá, eu sou o David
 
+<h1 align="center">Desenvolvedor Fullstack</h1>
+
+---
+
 Tenho 21 anos, sou apaixonado por tecnologia, curioso por natureza e estou sempre em busca de desafios que me permitam evoluir profissionalmente, desenvolver minhas habilidades e gerar soluções que façam a diferença.
 
 ---
@@ -31,7 +35,7 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 
 ## 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Zenon-Famous&show_icons=true&theme=default)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=dark)
 
 ---
 
