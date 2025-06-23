@@ -35,7 +35,7 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 
 ## 📊 Estatísticas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenon-Famouslayout=compact&langs_count=6&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenon-Famous&layout=compact&langs_count=6&theme=dark)
 
 ---
 
