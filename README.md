@@ -14,6 +14,8 @@ Tenho 21 anos, sou apaixonado por tecnologia, curioso por natureza e estou sempr
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
+## ☁️ AWS Cloud
+
 <p>
   <img src="https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazonaws&logoColor=white" alt="S3" />
@@ -24,8 +26,6 @@ Tenho 21 anos, sou apaixonado por tecnologia, curioso por natureza e estou sempr
 ## ⚒️ Soft Skills
 Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programação
 
-## 🧠 Conhecimentos
-AWS Lambda | S3 | CloudWatch | API Gateway
 
 ---
 
