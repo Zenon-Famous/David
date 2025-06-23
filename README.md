@@ -42,5 +42,6 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 
 ## 📫 Conecte-se comigo
 
-- [LinkedIn]([https://www.linkedin.com/in/david-passos-almeida-418147254/])  
-# David
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/david-passos-almeida-418147254/)
+
+
