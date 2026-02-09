@@ -45,9 +45,8 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 ## 🔥 Atividade de Commits
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenon-Famous&theme=github-dark"/>
+  <img src="https://ghchart.rshah.org/Zenon-Famous" alt="GitHub Contribution Chart">
 </p>
-
 
 ---
 
