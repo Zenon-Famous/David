@@ -33,9 +33,23 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 
 ---
 
-## 📊 Estatísticas
+---
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Zenon-Famous&layout=compact&langs_count=6&theme=dark)
+## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zenon-Famous&show_icons=true&theme=dark&include_all_commits=true&count_private=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zenon-Famous&theme=dark" height="165"/>
+</p>
+
+---
+
+## 🔥 Atividade de Commits
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zenon-Famous&theme=github-dark"/>
+</p>
+
 
 ---
 
