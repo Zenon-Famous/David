@@ -33,8 +33,6 @@ Trabalho em equipe | Comunicação | Tratamento de erros | Lógica de programaç
 
 ---
 
----
-
 ## 📈 Estatísticas do GitHub
 
 <p align="center">
