@@ -4,7 +4,7 @@
 
 ---
 
-Tenho 21 anos, sou apaixonado por tecnologia, curioso por natureza e estou sempre em busca de desafios que me permitam evoluir profissionalmente, desenvolver minhas habilidades e gerar soluções que façam a diferença.
+Tenho 22 anos, sou apaixonado por tecnologia, curioso por natureza e estou sempre em busca de desafios que me permitam evoluir profissionalmente, desenvolver minhas habilidades e gerar soluções que façam a diferença.
 
 ---
 
